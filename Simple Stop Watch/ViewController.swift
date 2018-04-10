@@ -2,10 +2,10 @@
 //  ViewController.swift
 //  Simple Stop Watch
 //
-//  Created by 김종현 on 2018. 4. 9..
-//  Copyright © 2018년 김종현. All rights reserved.
+//  Created by 김시환 on 2018. 4. 9..
+//  Copyright © 2018년 김시환. All rights reserved.
 //
-
+//
 import UIKit
 
 class ViewController: UIViewController {
