@@ -35,6 +35,7 @@ class ViewController: UIViewController {
         myTimer.invalidate() // 스탑워치를 중지 시킵니다.
     }
     @IBAction func reset(_ sender: Any) {
+        count = 0
         myTimer.invalidate() // 스탑워치를 중지 시키고
         timeLabel.text = "00:00:00" // 레이블을 초기화 시킵니다.
     }
